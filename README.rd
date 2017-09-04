@@ -1,5 +1,6 @@
 = PGroonga & Zulip
 
+PGroonga is fast and flexible full text search extension for PostgreSQL. Zulip is a chat tool that uses PostgreSQL and PGroonga. This talk describes why PGroonga is suitable for Zulip.
 
 == License
 
